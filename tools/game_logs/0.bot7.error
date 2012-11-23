@@ -1,0 +1,489 @@
+turn    1 bot 7 ignored actions:
+o 110 69 w # move blocked
+turn   37 bot 7 ignored actions:
+o 113 57 e # move blocked
+turn   41 bot 7 ignored actions:
+o 116 57 e # move blocked
+turn   42 bot 7 ignored actions:
+o 116 57 e # move blocked
+turn   51 bot 7 ignored actions:
+o 100 49 n # move blocked
+turn   77 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn   84 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn   87 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn   91 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn   93 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn   99 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  100 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  101 bot 7 ignored actions:
+o 111 70 n # move blocked
+turn  102 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 e # move blocked
+turn  103 bot 7 ignored actions:
+o 111 70 e # move blocked
+turn  105 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn  106 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+turn  108 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  110 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  111 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  112 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  116 bot 7 ignored actions:
+o 108 69 e # move blocked
+turn  119 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 67 s # move blocked
+turn  120 bot 7 ignored actions:
+o 4 53 n # move blocked
+o 110 69 e # move blocked
+turn  121 bot 7 ignored actions:
+o 113 68 s # move blocked
+o 112 69 e # move blocked
+turn  122 bot 7 ignored actions:
+o 112 69 e # move blocked
+o 110 69 e # move blocked
+turn  123 bot 7 ignored actions:
+o 109 70 e # move blocked
+o 112 69 e # move blocked
+turn  126 bot 7 ignored actions:
+o 110 69 s # move blocked
+o 111 70 n # move blocked
+turn  127 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 e # move blocked
+turn  128 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 s # move blocked
+turn  129 bot 7 ignored actions:
+o 112 67 s # move blocked
+o 110 69 e # move blocked
+turn  130 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  131 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 113 68 s # move blocked
+turn  133 bot 7 ignored actions:
+o 113 69 s # move blocked
+turn  134 bot 7 ignored actions:
+o 113 69 s # move blocked
+turn  136 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn  137 bot 7 ignored actions:
+o 111 70 e # move blocked
+turn  138 bot 7 ignored actions:
+o 111 70 s # move blocked
+turn  139 bot 7 ignored actions:
+o 111 70 e # move blocked
+o 112 69 e # move blocked
+turn  140 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 110 66 n # move blocked
+o 111 70 e # move blocked
+turn  141 bot 7 ignored actions:
+o 110 64 n # move blocked
+o 110 66 n # move blocked
+o 110 69 e # move blocked
+turn  142 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  143 bot 7 ignored actions:
+o 4 52 s # move blocked
+o 110 69 e # move blocked
+turn  144 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  145 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  147 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 110 66 n # move blocked
+turn  148 bot 7 ignored actions:
+o 111 70 s # move blocked
+turn  149 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 s # move blocked
+turn  150 bot 7 ignored actions:
+o 112 69 e # move blocked
+o 110 59 n # move blocked
+turn  151 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+turn  152 bot 7 ignored actions:
+o 111 70 n # move blocked
+turn  153 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 s # move blocked
+turn  154 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 e # move blocked
+turn  155 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+o 111 70 e # move blocked
+turn  156 bot 7 ignored actions:
+o 111 70 e # move blocked
+turn  157 bot 7 ignored actions:
+o 111 70 e # move blocked
+turn  158 bot 7 ignored actions:
+o 112 69 e # move blocked
+turn  159 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+turn  160 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 s # move blocked
+turn  161 bot 7 ignored actions:
+o 111 70 e # move blocked
+turn  162 bot 7 ignored actions:
+o 10 40 s # move blocked
+o 112 67 s # move blocked
+o 111 70 n # move blocked
+turn  163 bot 7 ignored actions:
+o 112 65 s # move blocked
+o 10 43 s # move blocked
+o 110 69 e # move blocked
+turn  164 bot 7 ignored actions:
+o 112 58 s # move blocked
+o 112 67 s # move blocked
+o 112 69 e # move blocked
+o 10 44 s # move blocked
+turn  165 bot 7 ignored actions:
+o 112 65 s # move blocked
+o 112 69 e # move blocked
+turn  166 bot 7 ignored actions:
+o 113 69 s # move blocked
+o 112 69 e # move blocked
+turn  167 bot 7 ignored actions:
+o 112 58 s # move blocked
+o 111 70 e # move blocked
+turn  168 bot 7 ignored actions:
+o 111 70 s # move blocked
+o 110 69 e # move blocked
+turn  169 bot 7 ignored actions:
+o 113 69 s # move blocked
+o 111 70 e # move blocked
+turn  170 bot 7 ignored actions:
+o 112 65 s # move blocked
+o 10 41 s # move blocked
+o 111 70 s # move blocked
+turn  171 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 e # move blocked
+turn  172 bot 7 ignored actions:
+o 113 69 s # move blocked
+o 110 69 e # move blocked
+turn  173 bot 7 ignored actions:
+o 118 57 s # move blocked
+turn  174 bot 7 ignored actions:
+o 113 68 s # move blocked
+o 117 57 e # move blocked
+o 111 70 e # move blocked
+o 110 69 e # move blocked
+o 116 64 s # move blocked
+turn  175 bot 7 ignored actions:
+o 113 68 s # move blocked
+o 116 64 e # move blocked
+o 110 69 e # move blocked
+turn  176 bot 7 ignored actions:
+o 113 68 s # move blocked
+o 110 69 e # move blocked
+o 118 57 s # move blocked
+o 112 69 e # move blocked
+o 113 64 e # move blocked
+turn  177 bot 7 ignored actions:
+o 113 68 s # move blocked
+o 111 70 e # move blocked
+o 118 57 s # move blocked
+turn  178 bot 7 ignored actions:
+o 113 68 s # move blocked
+o 22 39 s # move blocked
+o 113 64 e # move blocked
+o 111 70 s # move blocked
+o 118 57 s # move blocked
+o 113 69 e # move blocked
+turn  179 bot 7 ignored actions:
+o 22 39 s # move blocked
+o 111 70 e # move blocked
+o 113 68 w # move blocked
+o 113 69 e # move blocked
+o 112 69 e # move blocked
+turn  180 bot 7 ignored actions:
+o 113 69 s # move blocked
+o 113 68 s # move blocked
+o 112 69 e # move blocked
+turn  181 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+turn  182 bot 7 ignored actions:
+o 111 70 e # move blocked
+o 110 69 e # move blocked
+turn  183 bot 7 ignored actions:
+o 111 70 e # move blocked
+o 110 69 e # move blocked
+turn  184 bot 7 ignored actions:
+o 111 70 n # move blocked
+o 109 65 w # move blocked
+turn  185 bot 7 ignored actions:
+o 109 65 w # move blocked
+o 109 67 w # move blocked
+turn  186 bot 7 ignored actions:
+o 109 65 n # move blocked
+o 110 69 e # move blocked
+o 110 64 n # move blocked
+turn  187 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 109 65 e # move blocked
+turn  188 bot 7 ignored actions:
+o 109 65 e # move blocked
+o 110 69 e # move blocked
+turn  189 bot 7 ignored actions:
+o 110 66 n # move blocked
+o 110 69 e # move blocked
+turn  190 bot 7 ignored actions:
+o 112 54 w # move blocked
+o 110 66 n # move blocked
+turn  191 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 54 w # move blocked
+o 110 66 n # move blocked
+turn  192 bot 7 ignored actions:
+o 110 66 n # move blocked
+o 112 54 n # move blocked
+o 8 38 n # move blocked
+o 110 69 e # move blocked
+turn  193 bot 7 ignored actions:
+o 110 64 n # move blocked
+o 111 70 s # move blocked
+turn  194 bot 7 ignored actions:
+o 108 69 e # move blocked
+o 104 56 n # move blocked
+turn  195 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 104 56 n # move blocked
+o 108 69 e # move blocked
+o 112 67 s # move blocked
+o 104 57 n # move blocked
+o 7 37 e # move blocked
+turn  196 bot 7 ignored actions:
+o 104 57 n # move blocked
+o 109 67 w # move blocked
+o 7 37 w # move blocked
+o 109 70 e # move blocked
+turn  197 bot 7 ignored actions:
+o 109 70 e # move blocked
+o 109 67 w # move blocked
+o 110 64 n # move blocked
+o 7 37 w # move blocked
+o 110 69 e # move blocked
+turn  198 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 104 58 e # move blocked
+turn  199 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  200 bot 7 ignored actions:
+o 109 63 e # move blocked
+o 108 69 e # move blocked
+o 110 69 e # move blocked
+turn  201 bot 7 ignored actions:
+o 108 69 e # move blocked
+o 7 37 e # move blocked
+o 109 67 w # move blocked
+turn  202 bot 7 ignored actions:
+o 7 37 w # move blocked
+o 109 70 s # move blocked
+o 108 69 e # move blocked
+o 112 67 s # move blocked
+o 104 57 n # move blocked
+turn  203 bot 7 ignored actions:
+o 110 66 n # move blocked
+o 108 69 e # move blocked
+o 7 37 w # move blocked
+turn  204 bot 7 ignored actions:
+o 104 57 n # move blocked
+o 104 56 n # move blocked
+o 109 67 w # move blocked
+o 103 53 n # move blocked
+turn  205 bot 7 ignored actions:
+o 104 57 n # move blocked
+o 109 67 w # move blocked
+o 104 58 n # move blocked
+o 109 60 w # move blocked
+o 112 67 s # move blocked
+o 110 69 e # move blocked
+turn  206 bot 7 ignored actions:
+o 112 67 s # move blocked
+o 110 69 e # move blocked
+turn  207 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 s # move blocked
+turn  208 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 104 57 n # move blocked
+o 104 55 n # move blocked
+o 111 70 s # move blocked
+o 109 60 w # move blocked
+o 109 67 w # move blocked
+turn  209 bot 7 ignored actions:
+o 109 67 w # move blocked
+o 107 57 e # move blocked
+turn  210 bot 7 ignored actions:
+o 16 27 e # move blocked
+o 112 69 e # move blocked
+o 110 66 n # move blocked
+o 104 56 n # move blocked
+turn  211 bot 7 ignored actions:
+o 104 56 n # move blocked
+o 110 66 n # move blocked
+o 110 69 e # move blocked
+turn  214 bot 7 ignored actions:
+o 104 58 e # move blocked
+o 110 69 e # move blocked
+turn  215 bot 7 ignored actions:
+o 7 28 s # move blocked
+o 111 70 n # move blocked
+o 104 57 n # move blocked
+turn  216 bot 7 ignored actions:
+o 105 58 e # move blocked
+o 102 52 e # move blocked
+o 110 69 e # move blocked
+o 111 70 e # move blocked
+turn  217 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 111 70 e # move blocked
+turn  218 bot 7 ignored actions:
+o 109 67 w # move blocked
+o 111 70 n # move blocked
+turn  219 bot 7 ignored actions:
+o 108 69 e # move blocked
+o 105 58 e # move blocked
+o 109 67 w # move blocked
+o 110 69 e # move blocked
+turn  220 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 109 67 w # move blocked
+o 108 69 e # move blocked
+turn  221 bot 7 ignored actions:
+o 109 67 w # move blocked
+o 111 70 e # move blocked
+turn  222 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 110 66 n # move blocked
+o 111 70 e # move blocked
+turn  223 bot 7 ignored actions:
+o 111 70 s # move blocked
+o 109 67 w # move blocked
+o 109 70 s # move blocked
+turn  224 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 103 54 n # move blocked
+o 109 70 e # move blocked
+o 111 70 s # move blocked
+turn  225 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 104 55 n # move blocked
+o 109 70 n # move blocked
+o 104 57 n # move blocked
+turn  226 bot 7 ignored actions:
+o 107 57 e # move blocked
+o 109 70 n # move blocked
+o 110 69 e # move blocked
+o 101 53 s # move blocked
+turn  227 bot 7 ignored actions:
+o 109 70 s # move blocked
+o 111 70 s # move blocked
+turn  228 bot 7 ignored actions:
+o 111 70 s # move blocked
+o 109 67 w # move blocked
+o 109 70 e # move blocked
+o 110 69 e # move blocked
+turn  229 bot 7 ignored actions:
+o 109 67 w # move blocked
+o 108 69 e # move blocked
+o 110 69 e # move blocked
+o 100 56 s # move blocked
+o 100 58 s # move blocked
+o 112 69 e # move blocked
+o 100 57 s # move blocked
+turn  230 bot 7 ignored actions:
+o 100 56 s # move blocked
+o 100 57 s # move blocked
+o 100 58 s # move blocked
+o 104 56 n # move blocked
+o 110 69 e # move blocked
+turn  231 bot 7 ignored actions:
+o 110 66 n # move blocked
+o 100 56 s # move blocked
+o 110 69 e # move blocked
+o 104 56 n # move blocked
+turn  232 bot 7 ignored actions:
+o 100 58 s # move blocked
+o 104 56 n # move blocked
+o 110 69 e # move blocked
+o 108 66 s # move blocked
+o 108 69 e # move blocked
+turn  233 bot 7 ignored actions:
+o 104 58 e # move blocked
+o 108 69 e # move blocked
+o 102 52 e # move blocked
+o 110 69 e # move blocked
+turn  234 bot 7 ignored actions:
+o 109 67 w # move blocked
+o 104 58 e # move blocked
+o 110 69 e # move blocked
+turn  235 bot 7 ignored actions:
+o 104 57 n # move blocked
+o 104 58 e # move blocked
+o 110 69 e # move blocked
+turn  236 bot 7 ignored actions:
+o 106 58 s # move blocked
+turn  237 bot 7 ignored actions:
+o 106 58 e # move blocked
+o 110 69 e # move blocked
+turn  238 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  239 bot 7 ignored actions:
+o 109 67 w # move blocked
+turn  240 bot 7 ignored actions:
+o 109 67 w # move blocked
+o 104 58 e # move blocked
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+turn  241 bot 7 ignored actions:
+o 104 56 n # move blocked
+o 112 69 e # move blocked
+turn  242 bot 7 ignored actions:
+o 110 69 e # move blocked
+turn  243 bot 7 ignored actions:
+o 111 70 s # move blocked
+o 104 58 e # move blocked
+turn  244 bot 7 ignored actions:
+o 110 69 e # move blocked
+o 112 69 e # move blocked
+o 111 70 e # move blocked
+turn  245 bot 7 ignored actions:
+o 100 68 s # move blocked
+o 109 67 w # move blocked
+o 109 70 e # move blocked
+o 111 70 e # move blocked
+turn  246 bot 7 ignored actions:
+o 104 55 n # move blocked
+o 101 81 e # move blocked
+o 113 69 e # move blocked
+o 109 70 s # move blocked
+o 111 70 e # move blocked
+o 104 56 n # move blocked
+turn  247 bot 7 ignored actions:
+o 101 81 e # move blocked
+o 111 70 n # move blocked
